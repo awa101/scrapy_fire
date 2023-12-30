@@ -1,0 +1,11 @@
+[
+{"url": "https://bbq.co.kr/events/20", "title": "해피포인트 프로모션", "event_active": true, "content_img": "https://static.bbqorder.co.kr/event/해피포인트_랜딩페이지.jpg", "start_date": "2023-11-01", "end_date": "2099-11-30"},
+{"url": "https://bbq.co.kr/events/23", "title": "닭다리살 스테이크 증정 프로모션", "event_active": true, "content_img": "https://static.bbqorder.co.kr/event/12월_양념치킨_랜딩페이지.jpg", "start_date": "2023-12-01", "end_date": "2023-12-31"},
+{"url": "https://bbq.co.kr/events/25", "title": "해피포인트 연말 프로모션", "event_active": true, "content_img": "https://static.bbqorder.co.kr/event/%ED%95%B4%ED%94%BC%ED%8F%AC%EC%9D%B8%ED%8A%B8_1.png", "start_date": "2023-12-19", "end_date": "2023-12-31"},
+{"url": "https://bbq.co.kr/events/18", "title": "10월 전회원 BBIP 프로모션", "event_active": false, "content_img": "https://static.bbqorder.co.kr/event/10월_BBIP_랜딩2.png", "start_date": "2023-10-01", "end_date": "2023-10-31"},
+{"url": "https://bbq.co.kr/events/19", "title": "(양념치킨) 닭다리살 스테이크 증정쿠폰", "event_active": false, "content_img": "https://static.bbqorder.co.kr/event/랜딩페이지-최종수정안_양념치킨_사이드메뉴.jpg", "start_date": "2023-10-16", "end_date": "2023-10-22"},
+{"url": "https://bbq.co.kr/events/21", "title": "롯데시네마 프로모션", "event_active": false, "content_img": "https://static.bbqorder.co.kr/event/롯데시네마_랜딩페이지3.jpg", "start_date": "2023-11-10", "end_date": "2023-11-23"},
+{"url": "https://bbq.co.kr/events/22", "title": "해피포인트 할인 프로모션", "event_active": false, "content_img": "https://static.bbqorder.co.kr/event/해피포인트_할인_랜딩페이지.jpg", "start_date": "2023-11-13", "end_date": "2023-11-30"},
+{"url": "https://bbq.co.kr/events/24", "title": "연말 경품 증정 프로모션", "event_active": false, "content_img": "https://static.bbqorder.co.kr/event/2023_연말선물_랜딩페이지.png", "start_date": "2023-12-01", "end_date": "2023-12-22"},
+{"url": "https://bbq.co.kr/events/16", "title": "황금요일 프로모션", "event_active": false, "content_img": "https://static.bbqorder.co.kr/event/황금요일_프로모션_랜딩페이지.png", "start_date": "2023-12-22", "end_date": "2023-12-22"}
+]

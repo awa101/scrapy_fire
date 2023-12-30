@@ -1,0 +1,8 @@
+--------------------------
+bbq_scrapy
+--------------------------
+
+
+docker build -t bbq_scrapy .
+docker run --name bbq_scrapy -v /mnt/c/bbq_scrapy/bbq_scrapy/:/app --rm -d bbq_scrapy
+
